@@ -26,7 +26,7 @@ parskip=half-,twocolumn,landscape,numbers=noenddot]{scrreprt}
 % minus 1.5\fontdimen4\font
 % ------
 % Grattan colors
-\definecolor{Orange}{HTML}{F68B33}
+%\definecolor{Orange}{HTML}{F68B33}
 \definecolor{OrangeBackground}{RGB}{254,240,222}  % for boxes
 \definecolor{Color1}{RGB}{255,224,127}
 \definecolor{Color2}{RGB}{255,195,90}
